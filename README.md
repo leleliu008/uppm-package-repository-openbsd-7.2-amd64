@@ -1,0 +1,1 @@
+# uppm-package-repository-openbsd-7.2-amd64
