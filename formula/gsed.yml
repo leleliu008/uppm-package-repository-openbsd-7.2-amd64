@@ -1,0 +1,5 @@
+summary: GNU implementation of the famous stream editor
+webpage: https://www.gnu.org/software/sed
+version: 4.9 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.2-amd64/releases/download/2025.07.25/gsed-4.9-openbsd-7.2-amd64.release.tar.xz 
+bin-sha: 87978b8c747bcea3a78afa08f5ce13a857bd60e722c87750f6164fdcd77bfc37

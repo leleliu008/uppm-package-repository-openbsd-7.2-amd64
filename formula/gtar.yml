@@ -1,0 +1,5 @@
+summary: GNU version of the tar archiving utility
+webpage: https://www.gnu.org/software/tar
+version: 1.35 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.2-amd64/releases/download/2025.07.25/gtar-1.35-openbsd-7.2-amd64.release.tar.xz 
+bin-sha: 740eb293a9b0a4169d03c19ebf99c66b981bf55726c7940e61adc0d70ecae834

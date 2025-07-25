@@ -1,0 +1,5 @@
+summary: Banner-like program prints strings as ASCII art
+webpage: http://www.figlet.org/
+version: 2.2.5 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.2-amd64/releases/download/2025.07.25/figlet-2.2.5-openbsd-7.2-amd64.release.tar.xz 
+bin-sha: 8bbd889d0db1bb84e3086d0c369899074e5e68dba46b60df70267b92ae414732

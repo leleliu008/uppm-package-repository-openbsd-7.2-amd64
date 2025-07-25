@@ -1,0 +1,5 @@
+summary: Cross-platform make
+webpage: https://www.cmake.org/
+version: 3.31.7 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.2-amd64/releases/download/2025.07.25/cmake-3.31.7-openbsd-7.2-amd64.release.tar.xz 
+bin-sha: fd205ee06d0e87177dfbd325a4b7e9f3befc5a7255694584c47443f18449ffdf

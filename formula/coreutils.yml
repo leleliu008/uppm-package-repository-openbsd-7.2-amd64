@@ -1,0 +1,5 @@
+summary: GNU File, Shell, and Text utilities
+webpage: https://www.gnu.org/software/coreutils
+version: 9.4 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.2-amd64/releases/download/2025.07.25/coreutils-9.4-openbsd-7.2-amd64.release.tar.xz 
+bin-sha: b16ea2de9d765114fe5a0b02e93a462f9e2395d8663ee2c2f221013a8d57b96e

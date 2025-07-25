@@ -1,0 +1,5 @@
+summary: base64 encoder and decoder
+webpage: https://github.com/leleliu008/C-examples
+version: 2025.07.25 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.2-amd64/releases/download/2025.07.25/base64-2025.07.25-openbsd-7.2-amd64.release.tar.xz 
+bin-sha: 1ff87d3e480f86917a7ee2f89fb26770afc31a2e044bcbfd5dde39d8a4632cd3
